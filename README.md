@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RGulde
-  See Linked IN: https://www.linkedin.com/in/robert-gulde-a518a410
+  See LinkedIn: https://www.linkedin.com/in/robert-gulde-a518a410
   
 - 👀 I’m interested in ...
   Software, Electronics, Communications, Controls ... Connected world
