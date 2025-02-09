@@ -7,6 +7,8 @@
 - With a 30+ years of experience in RTOS and Linux systems I believe in learning new things for fun.
     
 - 🌱 I’m currently learning ... background tasks
+  OpenEmbedded, YOCTO.
+  On Hold
   IoT <==> XAMPP interactions     (Project proposal for Dr Monitored IoT device)
   ROS <==> IoT connected devices  
   STM32MP1 GUI/FLTK and other UX, OpenAMP, ZEN/Hypervisor
